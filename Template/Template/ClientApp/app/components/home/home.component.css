@@ -1,0 +1,30 @@
+﻿@media (min-width: 768px)  {
+    .page-heading {
+        padding-top: 60px;
+        padding-bottom: 60px;
+        text-align: left;
+    }
+}
+
+@media (min-width: 768px)  {
+    .page-heading h1 {
+        font-size: 6rem;
+        line-height: 1;
+        font-family: pt sans caption,Helvetica,Arial,sans-serif;
+        font-weight: 700;
+        color: #fff;
+    }
+}
+
+.page-heading {
+    position: relative;
+    margin: 0 -25px 30px -25px;
+    color: rgba(255,255,255,.5);
+    background-color: #08698c;
+    font-size: 2rem;
+    background-image: url(img/bg.png);
+}
+
+li{
+    margin-left: -25px;
+}
