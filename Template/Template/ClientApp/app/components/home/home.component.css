@@ -1,12 +1,24 @@
-﻿@media (min-width: 768px)  {
+﻿.page-heading {
+    position: relative;
+    margin: 0 -15px 30px -15px;
+    color: rgba(255,255,255,.5);
+    background-color: #08698c;
+    font-size: 1.5rem;
+    background-image: url(img/bg.png);
+}
+
+li {
+    margin-left: -25px;
+}
+
+@media (min-width: 768px) {
     .page-heading {
         padding-top: 60px;
         padding-bottom: 60px;
         text-align: left;
+        font-size: 2rem;
     }
-}
 
-@media (min-width: 768px)  {
     .page-heading h1 {
         font-size: 6rem;
         line-height: 1;
@@ -14,17 +26,4 @@
         font-weight: 700;
         color: #fff;
     }
-}
-
-.page-heading {
-    position: relative;
-    margin: 0 -15px 30px -15px;
-    color: rgba(255,255,255,.5);
-    background-color: #08698c;
-    font-size: 2rem;
-    background-image: url(img/bg.png);
-}
-
-li{
-    margin-left: -25px;
 }

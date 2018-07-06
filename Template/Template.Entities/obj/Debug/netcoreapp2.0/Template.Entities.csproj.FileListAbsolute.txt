@@ -1,0 +1,9 @@
+E:\Cawi\DEV\Template\Template\Template.Entities\bin\Debug\netcoreapp2.0\Template.Entities.deps.json
+E:\Cawi\DEV\Template\Template\Template.Entities\bin\Debug\netcoreapp2.0\Template.Entities.dll
+E:\Cawi\DEV\Template\Template\Template.Entities\obj\Debug\netcoreapp2.0\Template.Entities.csproj.CoreCompileInputs.cache
+E:\Cawi\DEV\Template\Template\Template.Entities\obj\Debug\netcoreapp2.0\Template.Entities.AssemblyInfoInputs.cache
+E:\Cawi\DEV\Template\Template\Template.Entities\obj\Debug\netcoreapp2.0\Template.Entities.AssemblyInfo.cs
+E:\Cawi\DEV\Template\Template\Template.Entities\bin\Debug\netcoreapp2.0\Template.Entities.pdb
+E:\Cawi\DEV\Template\Template\Template.Entities\obj\Debug\netcoreapp2.0\Template.Entities.csprojResolveAssemblyReference.cache
+E:\Cawi\DEV\Template\Template\Template.Entities\obj\Debug\netcoreapp2.0\Template.Entities.dll
+E:\Cawi\DEV\Template\Template\Template.Entities\obj\Debug\netcoreapp2.0\Template.Entities.pdb
