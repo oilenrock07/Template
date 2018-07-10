@@ -1,4 +1,5 @@
 ﻿.page-heading {
+    padding: 2em 0 2em 0;
     position: relative;
     margin: 0 -15px 30px -15px;
     color: rgba(255,255,255,.5);
@@ -7,8 +8,19 @@
     background-image: url(img/bg.png);
 }
 
+.page-heading h1 {
+    color: #fff;
+}
+
 li {
     margin-left: -25px;
+}
+
+.home-details{
+    padding-right: 0;
+    padding-left: 0;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 @media (min-width: 768px) {
