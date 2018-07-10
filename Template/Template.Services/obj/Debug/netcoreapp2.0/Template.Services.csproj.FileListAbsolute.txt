@@ -1,0 +1,9 @@
+E:\Cawi\DEV\Template\Template\Template.Services\bin\Debug\netcoreapp2.0\Template.Services.deps.json
+E:\Cawi\DEV\Template\Template\Template.Services\bin\Debug\netcoreapp2.0\Template.Services.dll
+E:\Cawi\DEV\Template\Template\Template.Services\bin\Debug\netcoreapp2.0\Template.Services.pdb
+E:\Cawi\DEV\Template\Template\Template.Services\obj\Debug\netcoreapp2.0\Template.Services.csprojResolveAssemblyReference.cache
+E:\Cawi\DEV\Template\Template\Template.Services\obj\Debug\netcoreapp2.0\Template.Services.csproj.CoreCompileInputs.cache
+E:\Cawi\DEV\Template\Template\Template.Services\obj\Debug\netcoreapp2.0\Template.Services.AssemblyInfoInputs.cache
+E:\Cawi\DEV\Template\Template\Template.Services\obj\Debug\netcoreapp2.0\Template.Services.AssemblyInfo.cs
+E:\Cawi\DEV\Template\Template\Template.Services\obj\Debug\netcoreapp2.0\Template.Services.dll
+E:\Cawi\DEV\Template\Template\Template.Services\obj\Debug\netcoreapp2.0\Template.Services.pdb

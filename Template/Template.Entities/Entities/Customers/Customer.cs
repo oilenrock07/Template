@@ -1,4 +1,6 @@
-﻿namespace Template.Models
+﻿using Template.Entities.Entities.Accounts;
+
+namespace Template.Entities.Entities.Customers
 {
     public class Customer
     {

@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Template.Entities.Entities.Accounts;
+using Template.Entities.Entities.Customers;
 
-namespace Template.Models
+namespace Template.Entities.DbContexts
 {
     public class ApplicationDbContext : IdentityDbContext<User>
     {

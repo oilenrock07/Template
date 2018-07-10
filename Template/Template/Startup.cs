@@ -9,7 +9,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Template.AppStart;
-using Template.Models;
+using Template.Entities.DbContexts;
+using Template.Infrastructure.Implementation;
+using Template.Infrastructure.Interfaces;
 
 namespace Template
 {
@@ -25,9 +27,10 @@ namespace Template
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("ConnectionStringName"), x => x.MigrationsAssembly("Template")));
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));            
             services.AddMvc();
-
-            services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(""));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

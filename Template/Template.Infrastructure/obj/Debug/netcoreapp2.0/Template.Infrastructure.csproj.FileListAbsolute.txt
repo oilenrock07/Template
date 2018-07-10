@@ -1,0 +1,12 @@
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.0\Template.Infrastructure.deps.json
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.0\Template.Infrastructure.dll
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.0\Template.Infrastructure.pdb
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.0\Template.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.0\Template.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.0\Template.Infrastructure.AssemblyInfoInputs.cache
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.0\Template.Infrastructure.AssemblyInfo.cs
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.0\Template.Infrastructure.dll
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.0\Template.Infrastructure.pdb
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.0\Template.Entities.dll
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\bin\Debug\netcoreapp2.0\Template.Entities.pdb
+E:\Cawi\DEV\Template\Template\Template.Infrastructure\obj\Debug\netcoreapp2.0\Template.Infrastructure.csproj.CopyComplete
