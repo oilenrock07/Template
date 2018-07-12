@@ -10,6 +10,41 @@ li.link-active a:focus {
     color: white;
 }
 
+@media (max-width: 767px) {
+    .navbar-nav .show .dropdown-menu {
+        position: static;
+        float: none;
+        width: auto;
+        margin-top: 0;
+        background-color: transparent;
+        border: 0;
+        box-shadow: none;        
+    }
+
+    .dropdown-menu > li > a:hover {
+        color: white;
+        background-color: transparent;
+    }
+}
+
+
 .navbar-fixed-top {
-    position:inherit;
+    position: inherit;
+}
+
+.dropdown-menu > li > a {
+    color: #9d9d9d;
+}
+
+.dropdown-toggle::after {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
 }

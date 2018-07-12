@@ -22,21 +22,17 @@
                             <span class='glyphicon glyphicon-education'></span> Counter
                         </a>
                     </li>
-                    <li [routerLinkActive]="['link-active']">
-                        <a [routerLink]="['/fetch-data']">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button">
                             <span class='glyphicon glyphicon-th-list'></span> Maintenance
                         </a>
+                        <ul class="dropdown-menu">
+                            <li><a class="dropdown-item" [routerLink]="['/fetch-data']" href="#">Fetch Data</a></li>
+                            <li><a href="/Account" class="dropdown-item">Manage Users</a></li>
+                        </ul>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Action</a>
-                            <a class="dropdown-item" href="#">Another action</a>
-                            <a class="dropdown-item" href="#">Something else here</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="#">Separated link</a>
-                        </div>
-                    </li>
+
+
                 </ul>
                 <!--@await Html.PartialAsync("_LoginPartial")-->
             </div>
